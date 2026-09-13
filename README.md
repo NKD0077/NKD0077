@@ -1,16 +1,13 @@
-## Hi there 👋
+# NKD
 
-<!--
-**NKD0077/NKD0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [Fivexx](https://fivexx.com).
 
-Here are some ideas to get you started:
+I build and operate digital commerce systems: storefront, checkout, fulfillment, and customer support. The work is private by default; the product is public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fivexx** — [fivexx.com](https://fivexx.com)
+
+- Store: digital products, payments, dashboard
+- Mail: [mail.fivexx.com](https://mail.fivexx.com)
+- 2FA: [2fa.fivexx.com](https://2fa.fivexx.com)
+
+Direct, trustworthy, fast. Clear prices, clear status, clear next step.
