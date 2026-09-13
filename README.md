@@ -2,11 +2,11 @@
 
 Founder of [Fivexx](https://fivexx.com).
 
-I build and operate digital commerce systems: storefront, checkout, fulfillment, and customer support. The work is private by default; the product is public.
+I build and operate digital commerce systems: storefront, checkout, fulfillment, and customer support.
 
 **Fivexx** — [fivexx.com](https://fivexx.com)
 
-- Store: digital products, payments, dashboard
+- Store: digital products, payments, and customer dashboard
 - Mail: [mail.fivexx.com](https://mail.fivexx.com)
 - 2FA: [2fa.fivexx.com](https://2fa.fivexx.com)
 
